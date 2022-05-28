@@ -1,6 +1,6 @@
 let net = require("net"),
     config = require("./config.json"),
-    crypto = require("crypto");
+    crypto = require("crypto.js");
 
 var Miner = {
     job: null,
