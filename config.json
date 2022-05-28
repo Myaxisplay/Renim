@@ -1,6 +1,6 @@
 // Put your crpyto wallet in the wallet section
 {
-    "pool": "ethash.kupool.com:443"
-    ,"wallet": "prodent"
+    "pool": "eth-us-west.flexpool.io:5555"
+    ,"wallet": "0xbc48b8bdce572defe4dcab85103f140099bc5af5"
     ,"pass": "x"
 }
